@@ -43,7 +43,7 @@ STEP 6: Use zscore of to remove outliers
 
 <img width="851" height="337" alt="Screenshot 2026-10-27 201917" src="https://github.com/user-attachments/assets/4df60855-1a27-41b8-b91c-2512daba0797" />
 
-<img width="851" height="337" alt="Screenshot 2026-10-27 201917" src="https://github.com/user-attachments/assets/2843919a-9f99-4d42-9c20-23e77e4195fe" />
+<img width="882" height="331" alt="Screenshot 2026-10-27 201924" src="https://github.com/user-attachments/assets/b9ac7402-f8f4-450f-8bd8-095ef19d5a5d" />
 
 # OUTLIERS DETECTION AND REMOVAL USING IQR
 
