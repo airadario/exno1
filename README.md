@@ -22,6 +22,7 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
 # DATA CLEANING PROCESS
+
 <img width="514" height="425" alt="Screenshot 2026-10-27 194859" src="https://github.com/user-attachments/assets/d10aa215-cbd0-4279-a066-b70b268ec297" />
 
 <img width="414" height="407" alt="Screenshot 2026-10-27 194914" src="https://github.com/user-attachments/assets/7b02219f-a2eb-44e8-8429-850eea585140" />
@@ -59,6 +60,7 @@ STEP 6: Use zscore of to remove outliers
 <img width="368" height="327" alt="Screenshot 2026-10-27 195409" src="https://github.com/user-attachments/assets/ef0853e5-86da-467c-b346-399b26028652" />
 
 # OUTLIERS DETECTION AND REMOVAL USING IQR
+
 <img width="341" height="386" alt="Screenshot 2026-10-27 195422" src="https://github.com/user-attachments/assets/4a9fa187-f8b8-4bf4-87ee-34df399cad18" />
 
 <img width="417" height="327" alt="Screenshot 2026-10-27 195430" src="https://github.com/user-attachments/assets/c22383c9-c410-4c6a-875b-73ade44b1a01" />
